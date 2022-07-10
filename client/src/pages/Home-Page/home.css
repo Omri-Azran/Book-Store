@@ -1,0 +1,11 @@
+
+.homepage{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family:cursive;
+    color: #1b8177; 
+
+}

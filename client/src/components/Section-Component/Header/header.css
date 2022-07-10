@@ -1,0 +1,40 @@
+
+header{
+    background-color:#1b8177;
+    text-align: start;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Courgette', cursive;   
+    color:  #ffffff;
+    align-items: center;
+    padding: 10px;
+    z-index: 1;
+    position: fixed;
+    width: 100vw;
+}
+h1{
+    margin: 0;
+}
+
+
+.burger {
+    display: flex;
+    cursor: pointer;
+    justify-content: space-around;
+    flex-direction: column;    
+    margin-right: 30px;
+    border: 0;
+    box-sizing: content-box;
+    width: fit-content;
+    background-color:#1b8177;
+}
+
+.bar1, .bar2, .bar3 {
+    background-color: #ffffff;
+    width: 35px;
+    height: 4px;
+    margin: 3px;
+    border-radius: 0;
+  }
+

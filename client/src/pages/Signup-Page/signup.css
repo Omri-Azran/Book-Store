@@ -1,0 +1,32 @@
+.signuppage{
+    background-image:linear-gradient(#1b8177, #e1b881);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    border: solid 20px;
+    color:#fff;
+    border-color: #fff;
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+    
+}
+
+.signuppopup{
+    font-size: small;
+}
+
+.signupcontent{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    flex-direction: column;
+    padding: 5px;
+}
+
+
+.passmsgsignup{
+    width: 45vmin;
+}

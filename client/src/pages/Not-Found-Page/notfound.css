@@ -1,0 +1,13 @@
+.notfound{
+    display:flex;
+    font-size: xx-large;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: 'Courgette', cursive;  
+    color: #1b8177; 
+    text-shadow: -2px -2px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+    margin: auto;
+}

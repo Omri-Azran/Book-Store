@@ -1,0 +1,15 @@
+footer{
+    background-color: #e1b881;
+    text-align: center;
+    overflow: hidden;
+    display: flex;
+    font-family: 'Courgette', cursive;
+    font-size: 20px;    
+    color:  #3ba890;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
